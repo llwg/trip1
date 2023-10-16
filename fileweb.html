@@ -1,0 +1,63 @@
+<div id='dropzone'>
+	<h1>drop files here</h1>
+	<h2>hi</h2>
+	<h2>.</h2>
+	<h2>.</h2>
+</div>
+<ul id='uploads'></ul>
+
+<style>
+html { display: flex; justify-content: center }
+body { margin: 5em; width: 32em }
+#dropzone { padding: 1em; border: outset; display: flex; flex-direction: column; justify-content: center; align-items: center }
+#uploads { white-space: nowrap }
+</style>
+
+<script>
+const cool = zone => ({ lastModifiedDate: date, name }) => {
+
+	const time = timeZone => date.toLocaleTimeString("ja-JP", { timeZone, timeZoneName: "short", hour: '2-digit', minute: '2-digit' })
+
+	const day = timeZone => {
+		const str = date.toLocaleDateString("ja-JP", { timeZone, timeZoneName: "short" })
+
+		const [y, m, d] = str.match(/\d+/g)
+
+		return `${m}.${d}`
+	}
+
+	const pp = timeZone => `${day(timeZone)} ${time(timeZone)}`
+
+	const hehe = timeZone => `![${pp(timeZone)}: ](pics/${name})`
+	return hehe(zone)
+
+}
+
+const log =
+	html =>
+{
+	const li = document.createElement('li')
+	li.innerHTML = html
+	uploads.appendChild(li)
+}
+
+const nothing = e => e.preventDefault()
+dropzone.addEventListener('dragenter', nothing)
+dropzone.addEventListener('dragover', nothing)
+
+dropzone.addEventListener('drop', async e => {
+	e.preventDefault()
+
+	const fs = [...e.dataTransfer.files].sort((x, y) => x.name.localeCompare(y.name))
+	const names = fs.map(f => f.name)
+
+	const timezone = await fetch('http://localhost:8000', { method: 'POST', body: JSON.stringify(names) })
+		.then(r => r.json())
+
+	console.log(timezone)
+
+	res = fs.map(cool(timezone)).join('\n\n')
+	navigator.clipboard.writeText(res)
+	log('DONE: ' + names.join(', '))
+})
+</script>
