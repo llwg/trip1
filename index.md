@@ -29,6 +29,7 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 		- [mine internet connectivity](japan.html#mine-internet-connectivity)
 		- [social anxiety](japan.html#social-anxiety)
 		- [japanese](japan.html#japanese)
+		- [aside: japan manga/net cafe](japan.html#aside-japan-manganet-cafe)
 		- [japanese bath and shower](japan.html#japanese-bath-and-shower)
 	- [japan day 2 -- tokyo](japan.html#japan-day-2-tokyo) (17 photo)
 		- [aside: checking out of an manboo](japan.html#aside-checking-out-of-an-manboo)
@@ -54,7 +55,7 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 		- [aside: Drinking Ethanol](japan.html#aside-drinking-ethanol)
 	- [japan day 9 -- kyoto](japan.html#japan-day-9-kyoto) (45 photo)
 		- [aside: my umbrella](japan.html#aside-my-umbrella)
-	- [japan day 10 -- osaka](japan.html#japan-day-10-osaka) (9 photo)
+	- [japan day 10 -- osaka](japan.html#japan-day-10-osaka) (10 photo)
 	- [japan day 11 -- KIX](japan.html#japan-day-11-kix)
 - [taiwan](taiwan.html#taiwan)
 	- [taiwan day 1 -- taipei](taiwan.html#taiwan-day-1-taipei)
@@ -91,5 +92,6 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 		- [aside: i dropped a bill on the floor when i was paying for my coca-cola](korea.html#aside-i-dropped-a-bill-on-the-floor-when-i-was-paying-for-my-coca-cola)
 	- [korea day 11 -- incheon](korea.html#korea-day-11-incheon) (9 photo)
 - [conclusions](conclusions.html#conclusions)
+
 
 

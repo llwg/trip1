@@ -44,7 +44,7 @@ how do u pay get on train in japan??. in this section i talk about how u can pay
 japan, like many other areas that i have seen of the world, has a thing called "IC card", which is little card that u can press to things and it goes BEEP and and it pays for things and stuff. to my understanding u BEEP it when u go thru entrance gate, BEEP it when u leave exit gate, it automatically charge u based on distance travelled. i personally have never used this in japan , i think i saw they were having a shortage of them or something. and tbh paying with cash and using physical tickets is so very convenient in japan i never really found the need to be more convenient. though i wonder if there is discount for using IC card bc ik in south korea there was a discount OH WELL
 
 #### physical ticket
-at each station hopefully there is a digital ticket machine. u press "ticket" or something and then press one of many set numeric values. and then it asks u for MONEY , in my experience these machines only accept cash . u give it the money, it gives u the ticket worth the NUMERIC VALUE THAT U PRESSED (and your change). then to enter the gate, u put it in the thing. it punches ur ticket and gives it back to u and lets u thru. and when u exit u put it into the thing and if your ticket amount is appropriate (greater or equal) it eats ur ticket and lets u thru, and if it is too little money worth, it says NO BRO and u cant go thru and it gives u back ur ticket. and usually i think there is a ticket inside the gates where u can insert ur ticket and pay the difference and u can go thru or something (FARE ADJUSTMENT MACHINE)? but the one single time i tried to use this it did not work. and i had to go talk to someone very awkwardly and i said sth like "fare adjustment" and then they did some calculations and then showed my calculator with money i need to pay and i gave it to them and left.
+at each station hopefully there is a digital ticket machine. u press "ticket" or something and then press one of many set numeric values. and then it asks u for MONEY , in my experience these machines only accept cash . u give it the money, it gives u the ticket worth the NUMERIC VALUE THAT U PRESSED (and your change). then to enter the gate, u put it in the thing. it punches ur ticket and gives it back to u and lets u thru. and when u exit u put it into the thing and if your ticket amount is appropriate (greater or equal) it eats ur ticket and lets u thru, and if it is too little money worth, it says NO BRO and u cant go thru and it gives u back ur ticket. and usually i think there is a Machine inside the gates where u can insert ur ticket and pay the difference and u can go thru or something (FARE ADJUSTMENT MACHINE)? but the one single time i tried to use this it did not work. and i had to go talk to someone very awkwardly and i said sth like "fare adjustment" and then they did some calculations and then showed my calculator with money i need to pay and i gave it to them and left.
 
 note: FARE ADJUSTMENT MACHINE does not give u a refund if you have a ticket worth more than u actually need to pay. i tried this.
 
@@ -70,7 +70,7 @@ it is relatively easy to pay with cash in Japan compared to the Handful of Devel
 
 ![8.27 08:25 GMT+9: a sign that i took a picture of bc i didnt really know what it was telling me. i now believe that it is telling u exactly which DOOR and CAR this gate opens to based on TRAIN LENGTH. coming from the USA this was a great CULTURE SHOCK. let me know down in the comments below if you are country has a SIMILAR DOOR CAR LABELLING ON TRAINS.](pics/20230827_082541.jpg)
 
-i transfered to a train that seemed to continue to go to [SHINAGAWA](品川). and it went to [SHINAGAWA](品川). then i got out and walked out the station um, there did not seem to be much, though to be fair i didn't walk across the crosswalk. so i just decided to go to farther into tokyo. i decided to [SHINJUKU](新宿). i dont know why i decided to go there. maybe bc location looked good, maybe bc name looked cool, idk. i dont think ive actually ever heard of [SHINJUKU](新宿).
+i transfered to a train that seemed to continue to go to [SHINAGAWA](品川). and it went to [SHINAGAWA](品川). then i got out and walked out the station. There did not seem to be much, though to be fair i didn't walk across the crosswalk. so i just decided to go to farther into tokyo. i decided to [SHINJUKU](新宿). i dont know why i decided to go there. maybe bc location looked good, maybe bc name looked cool, idk. i dont think ive actually ever heard of [SHINJUKU](新宿).
 
 ![here is a map of probably the path i took on trains to [SHINJUKU](新宿)](pics/japan-1-map.png)
 
@@ -123,7 +123,7 @@ GPS worked without data . but it was a bit wonky like it was off by a few meters
 
 when i needed internet, there was occasionally internet in places like:
 
-1. train stations . were usually most "reliable" (which still wasnt very reliable)
+1. train stations . usually had the most "reliable" public internet (which still wasnt very reliable).
 2. in some urban areas, e.g. shinjuku , there is just random public wifi out around. usually very spotty and randomly cant connect.
 3. convenience stores sometimes have some form of wifi at them. often do not though , in my experience. also questionable reliability.
 4. random stores, department stores occasionally have free wifi. these are usually fairly reliable. sometimes.
@@ -134,7 +134,7 @@ in summary my internet connectivity was a bit painful except for number 5. the e
 
 Eventually came Lunch Time, and it was time for me to Eat Lunch.
 
-i looked up a convenience store. i selected a Lunch Box from there cost JPY 498. i hand Stuff to cashier. they ask me if i want my Lunch Box heated up (in japanese). I reply with affirmative body language and "yes please" (in english). they then reply i think [バック](bag)? (in english). And i reply with negative body language, probably sth like shaking head/hand n stuff. they give me my Now-Heated Lunch Box, and I Leave The Store; They Give Me The Typical Farewell Greeting And I Probably Try To Reciprocate It With Light Body Language probably While Leaving. And so ends my Silly adventure at the Convenience store.
+i looked up Went to a convenience store. i selected a Lunch Box from there cost JPY 498. i hand Stuff to cashier. they ask me if i want my Lunch Box heated up (in japanese). I reply with affirmative body language and "yes please" (in english). they then reply i think [バック](bag)? (in english). And i reply with negative body language, probably sth like shaking head/hand n stuff. they give me my Now-Heated Lunch Box, and I Leave The Store; They Give Me The Typical Farewell Greeting And I Probably Try To Reciprocate It With Light Body Language probably While Leaving. And so ended my Silly adventure at the Convenience store.
 
 <div class=aside>
 ### social anxiety
@@ -180,6 +180,7 @@ For dinner , i decided to eat [MCDONALDS](マック). why ? im not sure. maybe, 
 ![8.27 16:26 GMT+9: mcdonalds](pics/20230827_162638.jpg)
 
 my order was:
+
 - Roasted Soy Sauce Double Thick Beef
 - McFry (L)
 - Sokenbicha (L)
@@ -190,13 +191,18 @@ it was cool, yummy. the Sokenbicha is some kind of tea, refreshing.
 
 then, it was time to Go Somewhere To Sleep. i dont actually remember but i assume i was tired from time difference and walking around and stuff. after some consideration throughout the day and research probably, i decided to go to [まんが喫茶マンボー新宿南口](MANGA CAFE MANBOO, SHINJUKU SOUTH EXIT).
 
+<div class=aside>
+### aside: japan manga/net cafe
+japan has some establishments advertised as like manga/net cafe, 24h workspace, etc. which are basically u pay some money to rent a little cubicle or room (probably with a computer) for some amount of time. you can sleep and stuff in them ; they even sell toiletries and sometimes have coin laundry machines and showers and stuff. As you will see , i spent most of my nights in Tokyo lodging in a specific Chain of this kind of stores called '[manboo](マンボー)' bc in the first night i already got used to that chain and they gave me a membership card.
+</div>
+
 i arrive at the building. entrance is at upper floor. i walk up the building and experience anxiety at the door. then press the door and walk in. and then um i think , i like stood there awkwardly , and then , probably approached counter , and then honestly i dont remember , maybe because i dont want to remember. i think i remember pointing at something on the price sheet. and i also remember the employee pulled out this cool cute little translator thing where u can talk into it and it translates it and then u can show it to ur opponent. i experienced some confusion i think once the translaty thing said sth about the top floor being empty or sth ? but i think it had to do with vacant and empty being same concepts and me forgetting that bc in english i think they are more separate.
 
-anyways after somewhat dying i somewhat survived and they gave me , not a key , but a receipt. assigned me a room. actually not a room it was cubicle style . i went to the cube.
+anyways after somewhat dying i somewhat survived and they gave me , not a key , but a receipt. assigned me a room. actually not a room it was cubicle style . it was a cube. i went to my Cube.
 
 ![8.27 19:26 GMT+9: my cube (picture taken after i got usb, as discussed below)](pics/20230827_192633.jpg)
 
-the cube was not locked . but there was a combination safe for safe keeping things if desired. i got the um . flat room, which is the 'floor' is raised and has these pleather firm cushioning so u can sit or lie down on. came with two pleather cushions !.
+the cube was not locked . but there was a combination safe for safe keeping things if desired. i got the um . "flat" room, which is essentially like a raised floor that is cushioned with firm pleather cushioning so u can sit or lie down on it. also , it came with two pleather cushions !.
 
 the price ended up being um i think JPY 4000 for 15 hours. which is actually i think one of most expensive lodgings i stayed in. i simply must check out at 15 hours after my check in and i am good . if not they charge more .
 
@@ -215,7 +221,7 @@ The computer was interesting , it had 4gb of ram which tbh doesnt sound like too
 
 Soon i was ready to go to sleep. it was very cold . information says that u can borrow blankets free at an station, but i went the station and couldnt see any. unfortunate!. i was cold. i thought about going to front and asking but i was done , i had had Enough interaction. but i think it was on my way back from trying and successfully using the Free Drink Machine at the front which dispenses a little paper cup and drink inside it, i passed by the station again and noticed that the towels were at the station . i had simply not seen them bc it was dark. so i got two blankets (they werent that big). and then i go to sleep. oh also i brushed teeth before sleeping in the bathroom.
 
-even with two blankets the aircondition was literally blowing onto me so i was still a bit chilly. also even though i was staying on the nonsmoking floor , the entire place smelled vaguely of smoke. and my towel that was drying on a hanger smelled like cigarettes in the morning. END OF DAY 1
+even with two blankets the aircondition was literally blowing Onto me so i was still a bit chilly. also even though i was staying on the nonsmoking floor , the entire place smelled vaguely of smoke. and my towel that was drying on a hanger smelled like cigarettes in the morning. END OF DAY 1
 
 ![here is approx where i went in shinjuku on day 1.](pics/japan-1-2.png)
 
@@ -223,7 +229,7 @@ even with two blankets the aircondition was literally blowing onto me so i was s
 
 i woke up day 2 at approx 4am probably bc adjusting to japan time .
 
-![8.28 04:02 GMT+9: me waking up at 4am turning on tv , some kind of historical something drama was on.](pics/20230828_040225.jpg)
+![8.28 04:02 GMT+9: me waking up at 4am turning on tv , some kind of historical something drama was on this channel.](pics/20230828_040225.jpg)
 
 i probably wanted to go back to sleep ? but i did not iirc. after using bathroom sink i used the Free Drink machine to get a cup of hot tea, and accidentally a cup of cold tea with crushed ice in it. and then i sat in my Cube . after sitting in my Cube for a while i packed up all my stuff back into my trusty reusable grocery bag and left the Lodging Around 7.
 
@@ -234,9 +240,9 @@ when i went to the front counter to check out , i believe the person asked sth l
 
 I wanted to go to restaurant called Denny's , because I have seen that 'family restaurants' are cool and epic in Japan. and also because there is Denny's in USA so it would be cool to go to Denny's in Japan. So, i walked to a Denny's.
 
-When i arrived at Denny's i gained Anxiety and did not want to go into Denny's. So i continued walking North and West within Shinjuku, because in that direction i read was some kind of Korea-Town area, which sounded Interesting.
+When i arrived at Denny's i gained Anxiety and did not want to go into Denny's. So i continued walking North and East within Shinjuku, because in that direction i read was some kind of Korea-Town area, which sounded Interesting.
 
-On the way i bought three Rice Balls and a bottle of Tea at a seven-eleven. and then i kept walking West and North intending to sit down somewhere when i found a spot to sit down and Eat them.
+On the way i bought three Rice Balls and a bottle of Tea at a seven-eleven. and then i kept walking East and North intending to sit down somewhere when i found a spot to sit down and Eat them.
 
 Eventually i reached some kind of area that looked like a Korea-Town because there was Korean Writing on signs and stuff. however i did not find a place to sit ; i went to some kind of park thing but it was closed , so i simply ate some rice ball standing in street. I continued to walk around and sometimes eat rice ball and drink tea , and i think i also got some fruits drink from a vending machine and drank that, yum!.
 
@@ -1143,7 +1149,7 @@ Today was my basically my Last Day in Japan. I decided to spend the day 'Shoppin
 
 ![9.5 10:43 GMT+9: the burger](pics/20230905_104342.jpg)
 
-the food was good ig it tasted about like what was expected. the overall Visit i remember felt a bit awkward though , When my order came out the person said sth about chicken nuggets and i dont think i understood and then they said something in english about chicken nuggets havent come out or sth so sit down and we will bring them to u and i tried to communicate sth like "no its ok i can wait i want to wait bc i dont want to have someone come over" (which i probably communicated by saying sth like "Wait") and then they replied sth like "no just sit down bro" so i sat down staring at my food and then someone came over and gave me my chicken nuggets. and then i decided to sit upstairs, but the only nonawkward spot to sit seemed to be right near the bathrooms , which u could smell. so i went to the Upstairs Upstairs which there absolutely nobody which was nice ig, except one time when someone came up and went into employee room and ig got ready to work and came out and went back downstairs, which doesn't really contain any inherent awkwardness but idk i kind of felt weird Knowing that the Person walked up three flights of stairs to see someone eating alone in the very top floor of a Wendy's, but it was probably just a very normal Day in the Life for them ig. my vibe was also sort of depressing bc someone told me sth like "osaka is known for good food places u should go to some hehe" and i said yeah haha ok and then went to Wendy's bc i was too afraid to try anything else and potentially talk to an irl human.
+the food was good ig it tasted about like what was expected. the overall Visit i remember felt a bit awkward though , When my order came out the person said sth about chicken nuggets and i dont think i understood and then they said something in english about chicken nuggets havent come out or sth so sit down and we will bring them to u and i tried to communicate sth like "no its ok i can wait i want to wait bc i dont want to have someone come over" (which i probably communicated by saying sth like "Wait") and then they replied sth like "no just sit down bro" so i sat down staring at my food and then someone came over and gave me my chicken nuggets. and then i decided to sit upstairs, but the only nonawkward spot to sit seemed to be right near the bathrooms , which u could smell. so i went to the Upstairs Upstairs which had absolutely nobody which was nice ig, except one time when someone came up and went into employee room and ig got ready to work and came out and went back downstairs, which doesn't really contain any inherent awkwardness but idk i kind of felt weird Knowing that the Person walked up three flights of stairs to see someone eating alone in the very top floor of a Wendy's, but it was probably just a very normal Day in the Life for them ig. my vibe was also sort of depressing bc someone told me sth like "osaka is known for good food places u should go to some hehe" and i said yeah haha ok and then went to Wendy's bc i was too afraid to try anything else and potentially talk to an irl human.
 
 after finishing my Wendy's i basically just walked around 'Shopping' for the rest of the day. there were very large Commercial areas lots of People in these covered sort of Outlet Mall things , and there were Department Stores, etc. i searched for a while to find this very specific little [赤べこ](akabeko) bobblehead cow gacha machine that i had encountered once before and thought would be a nice souvenir for an Family member. i Found it. i Browsed around more just for fun. i used like two other Gacha machines bc i figured i wasnt going to come back to Japan (at least in a while) so go Crazy. also stopped by the good ol [無印良品](muji) and bought socks (both the pairs i had brought had large holes in them by now), some nifty charging-cable retainers that i had seen earlier, and a small notebook and pen which i planned to used to record Details of my Travels but Wrote In Twice And Never Used Again.
 
@@ -1245,17 +1251,19 @@ finally i arrived at my Dinner: matsuya!!! hooray i love matsuya.
 
 ![9.5 17:30 GMT+9: my dinner. i dont have exact names of the things bc half of the name is hidden underneath tray but it was essentially grilled pork meat and [norikimu](のりキム). very yummy. a funny episode was that the worker ripped the tickets a bit off on the bottom as u can see and they were like 🤔🤔hmm oop! it was a hmm oop moment tbh.](pics/20230905_173037.jpg)
 
-after dinner i wandered back Home stopping by a [donqui](ドンキー) to buy nothing and a [convenience](store) to buy beer and salad-flavoured [jagarico](じゃがりこ). I wrote proudly in my notes that night that That [convenience](store) checkout was perhaps the longest and most involved, checkout experience i had had Yet in japan while feeling Comfortable (it involved responding negatively to "do you need a bag", and then showing my Credit card and them saying "Card" and me responding affirmatively or so and paying with Card.)
+after dinner i wandered back Home stopping by a [donqui](ドンキー) to buy nothing and a [convenience](store) to buy beer and salad-flavoured [jagarico](じゃがりこ). I wrote proudly in my notes that night that That [convenience](store) checkout was perhaps the longest and most involved checkout experience i had had Yet in japan while feeling Comfortable (it involved responding negatively to "do you need a bag", and then showing my Credit card and them saying "Card" and me responding affirmatively or so and paying with Card.)
 
 ![9.5 19:15 GMT+9: good ol DonQui Jote. i went into many and was mentally stimulated by them but never bought anything.](pics/20230905_191507.jpg)
 
 Back at the Hotel i Washed myself and ate my Snacks. The hotel room was slightly nicer than usual (idk if this is bc i payed more [USD 34.95] and so i wanted to think it was nicer); it came with free Bottled Water and had a little plastic Protector around the TV remote, and the Bathroom had a slightly-larger-than-average bathtub. however it was quite Hot and i couldnt find an air-conditioning remote, and the information on the TV system thing said sth like "we cant change individual room climate sorry bro", so i assumed there was no personal air-conditioning? and maybe my room was just Hot because it was right next to a large Hole opening to the neighbouring Empty Construction Lot. I was Sweating it was pretty hot and i figured i was just going to have a very sweatful sleep , until i went to turn off the lights via some kind of Digital Panel next to the bed and notice there was a Temperature Control on it . which controlled the Airconditioning. oops! i turned it on and it was cool and i went to bed.  END OF DAY 10
 
+![9.5 19:27 GMT+9: my room was next to a large hole that opened to an empty land.](pics/20230905_192711.jpg)
+
 ![approx where i went in JAPAN DAY 10](pics/japan-10.png)
 
 ## japan day 11 -- KIX
 
-my Flight to Taiwan was at 8:55 this morning departing from KIX ; i searched up approx train trip time night before and woke up at 5:30 , took Trains and arrived at 7:16. Note on trains: i saw one train called 'Rapi:t β'(?) which traveled where i needed it to travel, however they had some kind of Ticket Machines for it? within the station? so i assumed it was more Expensive you have to buy an Extra ticket to ride it, so i did not ride it when it arrived (many other people that looked like they were going to the airport did not ride it, so i felt safe not riding it).
+my Flight to Taiwan was at 8:55 this morning departing from KIX ; i searched up approx train trip time night before and woke up at 5:30 , took Trains and arrived at 7:16. Note on trains: i saw one train called 'Rapi:t β'(?) which traveled where i needed it to travel, however they had some kind of Ticket Machines for it? within the station? so i assumed it was more Expensive you have to buy an Extra ticket to ride it, so i did not ride it when it arrived (many other people that looked like they were going to the airport Also did not ride it, so i felt safe not riding it).
 
 Checkin at airport was stand in a line and then talk to a person. It turns out i couldn't Check In without a Future plane ticket Out of Taiwan (proof of onward flight?), which was awkward bc i didnt have one. so i left, sat on floor , booked a flight from Taiwan to South Korea, and returned to the Desk where the person directed me back to the same Counter and Finished the Checkin.
 
