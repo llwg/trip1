@@ -310,7 +310,7 @@ and also i stopped by convenience store on way back to Lodging to buy an beer.
 
 ![8.28 17:13 GMT+9: this picture is probably taken on [和泉橋](IZUMIBASHI) over the [神田川](KANDAGAWA) facing West on my way walking back to Lodging.](pics/20230828_171341.jpg)
 
-I got back to the lodging and took a shower in the Coin Shower , and then it was time to eat!!. I forgot to get utensils at the Matsuya. And i didnt want to ask the Front even though i knew they probably had them. So i folded up one of the plastic lids and used it as a spoon kind of to eat my Food.
+I got back to the lodging and took a shower in the Coin Shower , and then it was time to eat!!. I forgot to get utensils at the Matsuya. And i didnt want to ask the Front even though i knew they probably had them (when checking out tomorrow i noticed they had some next to a vending machine in the lobby). So i folded up one of the plastic lids and used it as a spoon kind of to eat my Food.
 
 ![8.28 17:58 GMT+9: Food](pics/20230828_175826.jpg)
 
@@ -318,7 +318,7 @@ I got back to the lodging and took a shower in the Coin Shower , and then it was
 
 ![8.28 20:55 GMT+9: Seven Eleven Suntory beer (JPY 204)](pics/20230828_205512.jpg)
 
-The food was good . The rice was big (i ordered it big) and nice. except the salad which i had no dressing for and just ate plain raw vegetables. The Shouchuu i poured into my empty salad bowl to drink. it tasted sort of like something between whiskey and wine. The beer tasted uninspiring very generic beer i think.
+The food was good . The rice was big (i ordered it big) and nice. however the salad i had no dressing for and just ate plain raw vegetables. The Shouchuu i poured into my empty salad bowl to drink. it tasted sort of like something between whiskey and wine. The beer tasted uninspiring very generic beer i think.
 
 I don't really remember what I did for the rest of the night but I assume just brush teeth and go to sleep. END OF DAY 2
 
@@ -345,7 +345,7 @@ the one i used was 100 yen for i think..8 hrs?? though i spent 200 yen bc i didn
 
 Then i walk a bit around [Kanda](神田) area. I walked into a 'hanamaru udon' shop because i knew the name but didnt know it was an udon chain shop fast food type thing. however it looked like u had to interact heavily with people to get food and i was scared and i simply turned around on the stairs down and left.
 
-i walk up to Akihabara area, and back to Matsuya , where i ordered food to eat in the store. i ordered [ネギたま牛めしランチ大盛](green-onion and egg beef rice lunch large portion). it was very tasty. and sit down eat in matsuya u get free miso soup and pickled radish and salad dressing. delicious!.
+i walk up to Akihabara area, and back to the same Matsuya i ate at Yesterday , where i ordered food to eat in the store. i ordered [ネギたま牛めしランチ大盛](green-onion and egg beef rice lunch large portion). it was very tasty. and sit down eat in matsuya u get free miso soup and pickled radish and salad dressing. delicious!.
 
 ![8.29 11:28 GMT+9: yum](pics/20230829_112832.jpg)
 
@@ -372,7 +372,7 @@ After walking around Akihabara , i took the train one stop back to [神田駅](K
 An 'Capsule Hotel' is a Lodging where ur Bed is a little capsule stacked among other Capsules (other peoples beds). and the bathroom is probably public.
 </div>
 
-this was first 'hotel' i stay at. The check in process was new for me. i think i tried to say sth in Japanese like "[reservation](予約?)" But the employee could tell i had no clue what i was doing and directed me in english to hand over passport and fill out something on a form and put shoes in locker and things.
+this was first 'hotel' i stay at. The check-in process was new for me. i think i tried to say sth in Japanese like "[reservation](予約?)" But the employee could tell i had no clue what i was doing and directed me in english to hand over passport and fill out something on a form and put shoes in locker and things.
 
 i looked around and put my stuff in my provided locker. then i went out. i wasnt sure if i was supposed to leave my key at front or something but i didnt and didnt experience any problems.
 
@@ -633,7 +633,7 @@ It had some kind of barriers so the water was very calm which i personally was n
 
 <div class=aside>
 ### vending machine prices in japan
-whenever i passed by a vending machine in japan i usually looked at the prices and selection. i have concluded that vending machine prices are remarkably uniform across Where I Went, including more rural places. Sometimes some areas may have Cheap Machines selling stuff at like JPY100, 110, but this is because they are selling their own (cheaper) drinks. If u look at the price of sth like: Coca Cola, i think it does not vary much beyond like 1, 2, 3 tens of cents across all the areas i visited. As a side-note, drinks at JPY100 were generally rare, and i encountered probably less than 10 total machines ever selling drinks below JPY100.ds
+whenever i passed by a vending machine in japan i usually looked at the prices and selection. i have concluded that vending machine prices are remarkably uniform across Where I Went, including more rural places. Sometimes some areas may have Cheap Machines selling stuff at like JPY100, 110, but this is because they are selling their own (cheaper) drinks. If u look at the price of sth like: Coca Cola, i think it does not vary much beyond like 1, 2, 3 tens of cents across all the areas i visited. As a side-note, drinks at JPY100 were generally rare, and i encountered probably less than 10 total machines ever selling drinks below JPY100.
 </div>
 
 However, the beach was ok and perhaps even nice. because it was a beach i like beaches. I soon left the beach and walked back to the station
@@ -642,7 +642,7 @@ However, the beach was ok and perhaps even nice. because it was a beach i like b
 
 ![9.1 11:12 GMT+9: picture i took walking back to station](pics/20230901_111214.jpg)
 
-And then i boarded westward train. it final stop was at a station where i had to get off and transfer to another westward train.
+And then i boarded westward train. its final stop was at a station where i had to get off and transfer to another westward train.
 
 <div class=aside>
 ### different train carriages seating

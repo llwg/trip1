@@ -72,6 +72,7 @@ figcaption { font-style: italic }
 .drop-caps { font-size: 1.8rem; text-transform: uppercase; float: left}
 
 body { margin: 0.6rem; font-family: 'Georgia'; text-align: justify }
+p { overflow-x: hidden }
 
 blockquote { margin-left: 1rem; border-left: 1px solid gray }
 
