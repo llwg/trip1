@@ -61,7 +61,7 @@ h2 { font-size: 2.4rem}
 h3 { font-size: 2.0rem}
 h4 { font-size: 1.5rem}
 
-h2 { position: sticky; top: 0; background: white; width: max-content }
+h2 { position: sticky; top: 0; background: white}
 
 img, video { max-width: 100% }
 figure { margin: 1rem; padding: 0 1rem 0 1rem }
