@@ -210,7 +210,7 @@ Some of you may be wondering: hmm, i am so curious: what little toiletries will 
 
 </div>
 
-## korea day 3 -- seongnam,seoul,donghae
+## day 3: [성남](seongnam),[서울](seoul),[동해](donghae)
 
 i woke up and stuff and checked out by leaving key at front desk. (retrospectively i think i should have left in a box that was in the elevator but i was unclear on the wording of the instructions printed on it so just left at the front desk).
 
@@ -337,7 +337,7 @@ Then i went to sleep (after shower, brush teeth) probably. End of DAY 3
 
 ![approx paths i took in SOUTH KOREA day 3. blue lines are bus lines. i dont really remember how i took the train from [성남시](song nam city) to [서울](seoul, south korea) and within [서울](sole).](pics/korea-3.png)
 
-## korea day 4 -- donghae, samcheok
+## day 4 -- [동해](donghae),[삼척](samcheok)
 
 This day i woke up , and left motel.
 
@@ -717,7 +717,7 @@ eventually i probably went to sleep. end of day 5.
 
 ![map 2](pics/korea-5-pohang.png)
 
-## korea day 6 -- pohang,[경주](GYEONGJU),busan
+## day 6: [포항](pohang),[경주](GYEONGJU),[부산](busan)
 
 Today i woke up in Pohang and left my accommodation and then walked around a Market place. The market place had lots of stuff. i walked around a Harbour. it was cool!.
 
@@ -843,7 +843,7 @@ I returned to my Motel Room and ate my Snacks and took some sort of shower/bath 
 
 ![a rough sketch of where i went](pics/korea-6-map.png)
 
-## korea day 7 -- busan,goheung,도양읍
+## day 7:[부산](busan),[고흥](goheung),도양읍
 
 This day i woke up. I noticed that even after a whole night of inhaling the room's air , it Still somehow smelled Bad and even kind of stung my nose if i inhaled too deeply.
 

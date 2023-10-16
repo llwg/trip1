@@ -721,7 +721,7 @@ idk when but i remember i accidentally fell into a little (probably alcohol-indu
 
 ![a map describing my rough path i took through area around fuji city. i didnt draw a map of where i went in [atami](熱海) bc i only remember The Beach and thats not detailed enough to draw a path that is any more than just a straight line](pics/japan-6-fuji.png)
 
-## japan day 7 -- shizuoka, nagoya, gifu
+## 7: shizuoka,nagoya,gifu
 
 This day i got up and then booked some kind of Hotel around [Nagoya](名古屋), the city which i planned to Go To by the end of the day. Then i checked out hotel. To check out i just dropped key in a Box at the Front , which felt weird bc i thought i would need to talk to someone but I think that was all i needed to do i guess. i dont think there was anyone at desk.
 
@@ -860,7 +860,7 @@ According to my Records, This Night's stay was the Most expensive, costing JPY50
 I probably could have stayed in Cheaper Lodgings if i had stayed in Guesthouse Thing where multiple people sleep in same room, but i was too scared to try those .
 </div>
 
-## japan day 8 -- maibara, kyoto
+## day 8 -- [米原](maibara),[京都](kyoto)
 
 I woke up , visited the Sink and stuff, and then gathered my Things and Left the Hotel, leaving my Key at the Front Desk (next to someone else's)
 
