@@ -748,7 +748,9 @@ my mcdonalds order was
 - 1 McFry (M) (JPY 330)
 
 ![9.2 12:06 GMT+9: chicken](pics/20230902_120622.jpg)
+
 ![9.2 12:08 GMT+9: potato pie](pics/20230902_120806.jpg)
+
 ![9.2 12:09 GMT+9: beef](pics/20230902_120912.jpg)
 
 And then i just left Shizuoka, idrk why i didnt stay longer , maybe bc already past midday and i wanted to have time to look around Nagoya or sth? In retrospect, i think i should have walked North of Shizuoka Station bc on Google Maps there seems to be many interesting Things there.
@@ -990,7 +992,7 @@ Then i wondered what to do, and so i decided to go to '[吉田寮](yoshida dorm)
 i initially bought My Umbrella to use as a Parasol. I was thinking in the back of my head for a while whether to buy one or not. here were my concerns:
 
 1. i dont wanna carry that around with me for rest of entire trip
-2. I think my surroundings in Life seemed to suggest that using a Parasol was a Feminine concept i.e. Not Very For Those That Identified Themself as an "Male". For example, i remembered that there is "Parasol Lady" NPCs in Pocket-monster Video games, but no "Parasol Lady". also most of the people carrying around Parasols i saw was Females.
+2. I think my surroundings in Life seemed to suggest that using a Parasol was a Feminine concept i.e. Not Very For Those That Identified Themself as an "Male". For example, i remembered that there is "Parasol Lady" NPCs in Pocket-monster Video games, but no "Parasol NotLady". also most of the people carrying around Parasols i saw was Females.
 
 here is how i resolved my concerns
 
