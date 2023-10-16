@@ -36,7 +36,7 @@ const handlers = {
 		// console.error(tree)
 		const { t, c: [a, b, [x, y]]} = tree
 		// console.error({ tree: {t, c: [a, b, [x.replace(/^pics\/(.+)\.jpg$/, 'media/$1.webp'), y]]}, currHead })
-		return { tree: {t, c: [a, b, [x.replace(/^pics\/(.+)\.(jpg|png)$/, 'media/$1.webp'), y]]}, currHead }
+		return { tree: {t, c: [a, b, [x.replace(/^pics\/(.+)\.(jpg|png)$/, 'media/$1.webp').replace(/^pics\/(.+\.webm)/, 'media/$1'), y]]}, currHead }
 	}
 }
 
@@ -102,7 +102,7 @@ j.blocks = hehe({ tree: j.blocks, currHead: 'hehehh' }).tree
 
 console.error(allt)
 
-await Deno.writeTextFile('transf.json', new Date() + JSON.stringify(j, null, '\t'))
+// await Deno.writeTextFile('transf.json', new Date() + JSON.stringify(j, null, '\t'))
 
 const IFILE = 'img_counts.json'
 
