@@ -76,6 +76,7 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 	- [day 3: 성남,서울,동해](korea.html#day-3-성남서울동해) (27 photo)
 		- [aside: riding (normal) bus (in south korea)](korea.html#aside-riding-normal-bus-in-south-korea)
 		- [Aside: south-korean (subway) public restrooms](korea.html#aside-south-korean-subway-public-restrooms)
+		- [aside: rain and crocs and socks](korea.html#aside-rain-and-crocs-and-socks)
 		- [aside: how the restaurants keep track of who ordered what??](korea.html#aside-how-the-restaurants-keep-track-of-who-ordered-what)
 	- [day 4 -- 동해,삼척](korea.html#day-4-동해삼척) (81 photo)
 		- [aside: 나무젓가락](korea.html#aside-나무젓가락)
@@ -90,8 +91,6 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 		- [aside: idk what was up with my mcdonalds order](korea.html#aside-idk-what-was-up-with-my-mcdonalds-order)
 	- [korea day 10 -- seoul](korea.html#korea-day-10-seoul) (32 photo)
 		- [aside: i dropped a bill on the floor when i was paying for my coca-cola](korea.html#aside-i-dropped-a-bill-on-the-floor-when-i-was-paying-for-my-coca-cola)
+		- [aside: i found out that 홍대 is literally just 홍대](korea.html#aside-i-found-out-that-홍대-is-literally-just-홍대)
 	- [korea day 11 -- incheon](korea.html#korea-day-11-incheon) (9 photo)
 - [conclusions](conclusions.html#conclusions)
-
-
-

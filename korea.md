@@ -13,9 +13,9 @@ went over to some benches and lied down on the benches bc i saw other ppl doing 
 
 some time morning i woke up and decided i had had enough sleep, also it was bright and ppl were moving around so i doubt i could go back to sleep. i probably washed face in bathroom sink or so; the bathrooms were nice. I went to a currency exchange within the airport and then walked up to them not exactly sure what to do and handed them some USD dollars and then they asked sth like "won?" and i said "yes" probably and they converted and gave me the KRW money.
 
-i walked downstairs to the trains area where they had vending machines that sold transportation IC cards. very convenient!. however the machines said they only accepted up to [KRW10000](MANWON) bills and i only had [KRW500000](OH MAN, won) bills. so i went over to some Money area and clicked around an ATM to see if there were any tools there; there were none to my knowledge. so then i went to the Currency Excange and then said something along the lines of "...[MANWON](KRW10000)..?....([으로](into)??)" and then the person thought a bit and then said sth like "usually not allowed to..." (in korean) and then took my two KRW500000 bills and then did some conversion saying (in english) "usually im not supposed to do this but something something i forget what exactly they said" and handed me it in KRW10000 bills, and i said thank u and left. thank you currency exchange person!
+i walked downstairs to the trains area where they had vending machines that sold transportation IC cards. very convenient!. however the machines said they only accepted up to [KRW10000](MANWON) bills and i only had [KRW50000](OH MAN, won) bills. so i went over to some Money area and clicked around an ATM to see if there were any tools there; there were none to my knowledge. so then i went to the Currency Excange and then said something along the lines of "...[MANWON](KRW10000)..?....([으로](into)??)" and then the person thought a bit and then said sth like "usually not allowed to..." (in korean) and then took my two KRW50000 bills and then did some conversion saying (in english) "usually im not supposed to do this but something something i forget what exactly they said" and handed me it in KRW10000 bills, and i said thank u and left. thank you currency exchange person!
 
-then i bought a transportation card , the cuter one that cost KRW1000 extra, and then used machine put KRW1000 on it , then went to ride the Train towards Seoul.
+then i bought a transportation card , the cuter one that cost KRW1000 extra, and then used machine put KRW10000 on it , then went to ride the Train towards Seoul.
 
 tbh i don't remember where i got off the train. i remember not knowing where i wanted to go so randomly getting off at wherever seemed right, looking at signs and going wherever seemed cool, or where large crowds of people seemed to be going (at some point i decided i wanted to go to [용산](yongsan) bc name sounded neat even though i dont think ive ever heard of the place before).
 
@@ -125,7 +125,7 @@ So, i Went to the [성균관대학교](SUNG KYUN KWAN UNIVERSITY) campus at seou
 
 ![9.14 11:30 GMT+9: palace museum. idk why theres the giant white paper covering part of the Thing. if u know lmk in comments section below.](pics/20230914_113047.jpg)
 
-then i exited and then walked north and east towards [성균관대](SKKU) , and on the way i checked my mobile phone to see that a Friend that i had informed about my Plans said that the Festival was being held at the Campus not in Seoul but in [수원](SOO WON). oops! So, i rerouted and Strolled Over to the nearest Train Station.
+then i exited and then walked north and east towards [성균관대](SKKU) , and on the way i checked my mobile phone to see that a Friend that i had informed about my Plans said that the Festival was being held at the Campus not in Seoul but in [수원](SOO WON). oops! So, i rerouted Strolled Over to the nearest Train Station.
 
 ![9.14 12:31 GMT+9: baskin robbins i passed by. this area was near some kind of hanok village or so ? that i wanted to stop by but the geography did not allow me to do so in a timely manner i think.](pics/20230914_123133-censored.jpg)
 
@@ -133,7 +133,7 @@ then, i took the train to [성균관대](SKKU) Soowon campus. according to my ca
 
 ![at its height, i believe the line looked sth like this. i entered the queue around where the yellow marker is placed. According to My Calculations, once the line started moving it took about 45 mins to reach the front.](pics/미친줄.png)
 
-eventually i reached front of line. i needed to show an ID and i wondered hmm dang would my passport suffice so i walked up and then tried to say the words [역권](passport) to the guy and then they said to me (in english) "i dont speak korean. show me ur id". so i handed them my passport and it worked.
+eventually i reached front of line. i needed to show an ID and i wondered hmm dang would my passport suffice so i walked up and then tried to say the words [역권](passport) to the guy and then they said to me (in english) "i dont speak korean. show me ur id". so i handed them my passport and it worked. admission was KRW15000 btw iirc.
 
 I then stood in the shorter and faster moving Entry line. they checked bags so i opened my bag which contained my entire trips worth of Things , i remember i put my Bag of Stuff Stored In A Large Ziploc Bag on the table and one of the persons was like "whats this" to the other person and the other person replied "idk its this guy's". and then they let me through.
 
@@ -175,7 +175,7 @@ i carried all my stuff to the little eating counter and then warmed the stuff up
 
 ![9.14 21:29 GMT+9: i drank this juices hoping it would nourish my body that i had just spent last many hours standing without eating](pics/20230914_212946.jpg)
 
-Eventually i finished and left and took train to my Lodging. when i was checking in i think there was some confusion , and i wondered if it was bc i reserved a few hours before so i was thinking hmm should i try to say 'i reserved it shortly before' (but in korean)?? but then i just stood there in silence until idk what happened but they gave me a key or so.
+Eventually i finished and left and took train to my Lodging. when i was checking in i think there was some confusion , and i wondered if it was bc i made the reservation just a few hours before . so i was thinking hmm should i try to say 'i reserved it shortly before' (but in korean)?? but then i just stood there in silence until idk what happened but they gave me a key or so.
 
 I do not remember anything particularly good or bad about this motel. Here is what i wrote about it in my Notes in the Evening tomorrow:
 
@@ -252,7 +252,7 @@ i visited many south-korean public restrooms, mostly (92%?) at subway stations. 
 
 - cleanliness: not filthy but not pristine
 - sinks: except at maybe the Airport, every sink i used was Manual, i.e. you physically touch something to turn the water off and on.
-- soap: i would say most? bathrooms (at least in subway/bus stations) had some form of handsoap to use. however, not all did. the most common form of soap was BARSOAP, often mounted on a metal rod. liquid soap dispensers were uncommon.
+- soap: i would say most? bathrooms (at least in subway/bus stations) had some form of handsoap to use. however, not all did. the most common form of soap was BARSOAP, often mounted on a metal rod. liquid soap dispensers were uncommon (but not rare).
 - paper towels: excluding the airport, i dont think any public restroom i visited had paper towels. maybe one?
 
 ![9.15 13:04 GMT+9: mounted bar soap. a common sight.](pics/20230915_130450.jpg)
@@ -260,10 +260,17 @@ i visited many south-korean public restrooms, mostly (92%?) at subway stations. 
 ![9.13 15:50 GMT+9: i dont exactly remember why i took this picture, but maybe it was because of the mats around the urinals. these mats felt slightly better in concept to stand on than the p*ss-stained hard floor.](pics/20230913_155055.jpg)
 </div>
 
-I arrived at the Restaurant. I felt scared but after loitering a bit i Just Went In. The persons asked me how many people i was, to which i replied by holding up One Finger. and then they said hmm we dont got Single Person Seats so can u wait outside and we call u when we got the seat. so i went out shooken in my (figurative)boots and sat in the little waiting area. and looked at my phone. until someone told me come in they sat me at my seat and stuff and i got a kettle of tea and menu or sth. and then i looked at the menu and thought (maybe) and then i ordered, i think i did so by
+I arrived at the Restaurant. I felt scared but after loitering a bit i Just Went In. The persons asked me how many people i was, to which i replied by holding up One Finger. and then they said hmm we dont got Single Person Seats so can u wait outside and we call u when we got the seat. so i went out shooken in my (figurative)boots and sat in the little waiting area. and looked at my phone.
+
+<div class=aside>
+### aside: rain and crocs and socks
+lots of days i was in south korea it rained a lot. i wore crocs. usually i wear socks inside my crocs. however when its raining ur socks become wet and squishy. so i just wore crocs and bare feet. i hope you feel informed after knowing this information.
+</div>
+
+Eventually someone told me to come in. they sat me at my seat and stuff and i got a kettle of tea and menu or sth. and then i looked at the menu and thought (maybe) and then i ordered, i think i did so by
 
 - looking up around the restaurant until sort of making eye contact with waiter
-- holding up hand or so and they went over to me and sort of holding menu like i was about to order
+- holding up hand or so and they went over to me and i sort of held the menu in a manner that suggested i was about to order
 - saying , iirc , "[짜장면 하나](one BLACK BEAN NOODLES), (pointing to '자장면' on the menu), (FLIP THE PAGE OF MENU), [이거](this) (points to [돼지고기탕수육](PORK SWEET-AND-SOUR PORK)) [하나 주세요](ONE PLEASE)."
 - the waiter said "ok XXXX and XXXX?" or sth and i affirmed and they took menu and left.
 - the ordering process was finished
@@ -272,13 +279,13 @@ i sat there shooked out of my (figurative) boots, out of my wits, Very Scared so
 
 ![9.15 14:00 GMT+9: food and restaurant vibe pic](pics/20230915_140044-censored.jpg)
 
-it was yummy i think though iirc my stomach did not feel too good while ate, idk if it was because the Food or if it was because i was eating my first meal at 2pm or it was because i was experience anxietiousness.
+it was yummy i think though iirc my stomach did not feel too good while ate, idk if it was because the Food or if it was because i was eating my first meal of the day at 2pm or it was because i was experience anxietiousness or idk.
 
 ![9.15 13:56 GMT+9: meat dish. they pre-poured all the sauce on it. i think the serving was meant for more than 1 person because the portion was quite large and also it cost KRW32000 (more expensive than the motel i just stayed at).](pics/20230915_135620.jpg)
 
 ![9.15 13:58 GMT+9: noodles dish. KRW9000. it was yummy.](pics/20230915_135802.jpg)
 
-Eventually i was full but still had Meat left , so , i attempted to ASK CAN U WRAP THIS FOR ME SO I CAN TAKE IT AWAY. to do this i utilised the tecnique i called 'speaking real slow and drawn out so u have to only say like 2 words and the person will interpret the rest of what u mean'. so i said something like '[이거](this) [포장](packaging)...' except more like '[I](이) [Go](거) [Po](포) [Zaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](자ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ)' to which they responded sth like '[포장해드릴까요](i wrap for u?)' which i affirmed, likely nonverbally.
+Eventually i was full but still had Meat left , so , i attempted to ASK CAN U WRAP THIS FOR ME SO I CAN TAKE IT AWAY. to do this i utilised the technique i called 'speaking real slow and drawn out so u have to only say like 2 words and the person will interpret the rest of what u mean'. so i said something like '[이거](this) [포장](packaging)...' except more like '[I](이) [Go](거) [Po](포) [Zaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](자ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ)' to which they responded sth like '[포장해드릴까요](i wrap for u?)' which i affirmed, likely nonverbally.
 
 And so i got my meat packaged and i was ready to Leave. From my observations during eating, i believed that you payed at the counter. So i took out prepared my Cash and went up to the counter and they probably asked me 'u gonna pay now?' before i needed to say anything which i could affirm nonverbally. and i hand my payment and they ask me something like do i need Some kind of receipt or sth???? idk i just heard receipt so i affirmed, but then they asked me to enter some kind of number and i was confused and i looked confused and then they asked "i just give to u?" or sth and i probably affirmed or sth idk what happened but anyways i got my change and receipt and left. idk if they was asking like phone number to send digital receipt or sth to?? not sure. If u know lmk in the comments section below :).
 
@@ -287,15 +294,15 @@ And so i got my meat packaged and i was ready to Leave. From my observations dur
 one thing that still puzzles me idk how it happens is restaurants that keep track of all the tables Who ordered the things at that table it is was truly confounding for me. actually it isnt that confounding but it was still interesting. you just go in and say ur order and they say ok and give u it and then after u walk up the counter the person at counter knows who u are what u ate.
 </div>
 
-Finally i was out of the restaurant . I felt the need to Leave, so i built the intention to go to the South-Korean East Coast. I thought to take a Train. but there are no trains directly from [성남시](seongnam city) to the East Coast. So i rode trains back up to Seoul and then looked to take a train to somewhere on the East Coast. However it looked like all the high-speed trains were sold out (and i don't think they had just Normal Trains that go there -- not completely sure about this though?). So i decided to take a Bus.
+Finally i was out of the restaurant . I felt the need to Leave, so i built the intention to go to the South-Korean East Coast. I thought to take a Train. but there appeared to be none trains directly from [성남시](seongnam city) to the East Coast. So i rode trains back up to Seoul and then looked to take a train to somewhere on the East Coast. However it looked like all the high-speed trains were sold out (and i don't think they had just Normal Trains that go there -- not completely sure about this though?). So i decided to take a Bus.
 
-i went to a Bus Terminal i found by googling bus directions to east coast on naver map. i was very confused for a few mins because i thought the Place U Ride Taxis place in front of the Terminal Building was the Bus Stop. it was actually the big Building behind it.
+i went to a Bus Terminal i found by googling bus directions to east coast on naver map. i was very confused for a few mins because i thought the Place Where You Ride Taxis in front of the Terminal Building was the Bus Stop. it was actually the big Building behind it.
 
 ![9.15 16:52 GMT+9: i saw this pigeon crossing the road as i was crossing the street to the bus terminal.](pics/20230915_165257.jpg)
 
 ![9.15 16:53 GMT+9: pigeon. also bottom corners of food tent. tents with food-serving businesses was set up in front of the bus terminal.](pics/20230915_165350.jpg)
 
-in the Bus Terminal there was some ticket vending machines u can just use the digital application to purchase a ticket. i used it to purchase a ticket to [동해](dong hae) with a Credit Card. very convenient!.
+in the Bus Terminal there was some ticket vending machines u can just navigate its touch screen application thing to purchase a ticket. i used it to purchase a ticket to [동해](dong hae) with a Credit Card. very convenient!.
 
 then i had a few tens of minutes before bus departure so i browsed bought some things at a convenience store in the station. and ate them. and used bathroom. and then boarded the bus. the bus had a neat thing where u could just scan ur boarding pass ticket. very neat!.
 
@@ -331,7 +338,7 @@ For dinner i ate my leftover Restaurant Meat using the end of a Floss Pick, alon
 
 ![9.15 21:34 GMT+9: dinner. the water was Complementary Motel Water.](pics/20230915_213419.jpg)
 
-The plastic box the restaurant put my Meat in was very high-quality, like it felt thicker and sturdier than some of the name-brand plastic containers u can buy at USA mart. so i washed it in the sink to use to store some of my Belongings. I also washed my Socks and Plastic Bag That I Sat On At The [한강](HAN RIVER), because these items had gotten wet in the Rain on DAY1, i put them in my backpack, and then forgot to take them out at night , so they developed very not-nice smell.
+The plastic box the restaurant put my Meat in was very high-quality, like it felt thicker and sturdier than some of the name-brand plastic containers u can buy at USA mart. so i washed it in the sink to use to store some of my Belongings. I also washed my Plastic Bag That I Sat On At The [한강](HAN RIVER), because it had gotten wet in the Rain on DAY1, i put it in my backpack, and then forgot to take it out at night , so it developed very not-nice smell.
 
 Then i went to sleep (after shower, brush teeth) probably. End of DAY 3
 
@@ -443,7 +450,7 @@ i finish eat and walk along the beach. it was not very impressional. i continued
 
 ![9.16 16:18 GMT+9: cute bird thing](pics/20230916_161852.jpg)
 
-![9.16 16:22 GMT+9: neat area u could go down. i was tempted to go down. but i did not.](pics/20230916_162256.jpg)
+![9.16 16:22 GMT+9: neat area u could go down. i was tempted to go down. but i did not. tbh i kind of wish i had. it looks cool and chill and nice.](pics/20230916_162256.jpg)
 
 ![9.16 16:27 GMT+9: someone fishing](pics/20230916_162742.jpg)
 
@@ -489,7 +496,7 @@ i walked and walked without much plan except to walk south. i didnt really know 
 
 Unfortunately it was a bit rain , so i thought i should go to a convenience store and buy maybe like a tarp(?) or rain ponchos ? or so. so i walked to the nearest (south) one, but it seemed to be located in some kind of resort building which i was not about to Go Into. So i decided to walk West into town or so to go to one. But when i tried to walk West i ran into these giant..nets??? that blocked my way. idk why the nets were there. So i turned around and went into the Resort. The convenience store was in the Basement and it was the saddest convenience store i seen; the food-prep station was out of order , half of the shelves were empty and stuff . and i dont think they had any ponchos or whatever. So i left. and kept walking south.
 
-![9.16 19:37 GMT+9: giant nets surrounding basically whole area. idk what they were for. if u know lmk in the comments section below.](pics/20230916_193725.jpg)
+![9.16 19:37 GMT+9: giant nets surrounding basically whole area. idk what they were for. if u know lmk in the comments section below. now that i think about it, i wonder if i could have lifted them and walked under. i did not try.](pics/20230916_193725.jpg)
 
 ![9.16 19:42 GMT+9: i walked in this resort.](pics/20230916_194235.jpg)
 
@@ -505,7 +512,7 @@ Unfortunately it was a bit rain , so i thought i should go to a convenience stor
 
 ![9.16 20:17 GMT+9: 200M TO PENALTY BOX. idked whats a penalty box or why this sign was here or why it was in english only. i imagined it was like Bad Foreigners get sent to the Penalty Box or something for punishment idk.](pics/20230916_201727.jpg)
 
-![9.16 20:25 GMT+9: ok so i was looking on naver maps and it said i could cross a body of water by crossing a little bridge or something?? but when i went to where the bridge was supposed to be, all i saw this thing. the water was too deep to wade across i thinked. so i just walked around the long way.](pics/20230916_202512.jpg)
+![9.16 20:25 GMT+9: ok so i was looking on naver maps and it said i could cross a body of water by crossing a little bridge or something?? but when i went to where the bridge was supposed to be, all i saw was this thing. the water was too deep to wade across i thinked. so i just walked around the long way.](pics/20230916_202512.jpg)
 
 ![diagram of situation](pics/korea-4-nobrige.png)
 
@@ -823,7 +830,7 @@ Eventually i arrived [Busan](부산) at [부산역](busan station). i looked aro
 
 the experience was chill and i ate well. even though i probably could have happily eaten another bowl of rice but i didnt want to order one. i payed and left and then went to booked motel.
 
-I arrived at motel , the person behind desk was watching video in a place that did not have direct line-of-sight with where i was standing. so i just stood there for a while listening to the asmr of them watching their video , some guy outside talking on phone in foreign language (idk what language), and city ambiance. eventually i walked out the motel and like looked to see that this was the right place . and then walked in. and then the person behind the desk saw me through the window and them attended to the Front Desk. after they noticed that i Couldnt Speak Korean they walked me through the entire checkin process fully in English. I got my key and went up to My Room.
+I arrived at motel , the person behind desk was watching video in a place that did not have direct line-of-sight with where i was standing. so i just stood there for a while listening to the asmr of them watching their video , some guy outside talking on phone in foreign language (idk what language), and city ambiance. eventually i walked out the motel and like looked to see that this was the right place . and then walked back in. and then the person behind the desk saw me through the window and them attended to the Front Desk. after they noticed that i Couldnt Speak Korean they walked me through the entire checkin process fully in English. I got my key and went up to My Room.
 
 ![9.18 20:28 GMT+9: room pic. it cost USD18.25](pics/20230918_202846.jpg)
 
@@ -900,7 +907,7 @@ Eventually i finished my Little Snack and Left the beach. i intended to Leave Bu
 
 ![9.19 14:48 GMT+9: a pigeons in front of a convenience store. if you think about this is funny becase pigeons are supposed to say 'coo' and the convenience store name is 'CU' which you can interpret to pronounce as 'coo'.](pics/20230919_144824.jpg)
 
-![9.19 14:54 GMT+9: when i was in busan there were lots of ads telling u that they about to host the world expo in 2023](pics/20230919_145437.jpg)
+![9.19 14:54 GMT+9: when i was in busan there were lots of ads telling u that they about to host the world expo in 2030](pics/20230919_145437.jpg)
 
 ![9.19 14:56 GMT+9: tall buildings](pics/20230919_145649.jpg)
 
@@ -940,13 +947,13 @@ There was taxis in front of the bus stop. But i was afraid of them. And i told m
 
 I just walked . it was dark . I wondered what i was doing why i was doing it. Once i passed by a bike and i wondered if i should steal it. i paused there and thought long and hard. i decided not to. because i would probably be pissed if it was my bike. also it was right in front of a truck which maybe had a dash cam idk. what if i got arrested that would be awkward i dont even speak the local language. also the house's dog started barking so i moved on.
 
-i walked on , into the darkness. into areas that had no street lamps. the only light was occasionally cars that drove by. sort of i wished that someone would stop and ask where u going and offer me to drive me there. but i also scared that someone might do that. so i was both relieved and disappointed that nobody Stopped.
+i walked on , into the darkness. into areas that had no street lamps. the only light was occasionally cars that drove by. sort of i wished that someone would stop and ask where u going and offer me to drive me there. but i also was scared that someone might do that. so i was both relieved and disappointed that nobody Stopped.
 
 I was walking along the road. Along the road was nature. I often ran into spider-web material. deeper into my journey , very few cars came. so, i could just walk in the middle of the road , and move to side if i heard/saw a car coming.
 
 <div class=aside>
 ### aside: running into spider webs
-whenever i was in more rural areas i often randomly ran into spider-web-like material. not an actual full spider web (except maybe once or twice on accident) but just a few strands or sth.
+whenever i was in more rural areas i often randomly ran into spider-web-like material. not an actual full spider web (except maybe once or twice on accident) but just a few strands or so.
 </div>
 
 ![9.19 21:06 GMT+9: if u use flash u can take good picture of road signs. i was only 16km away from my destination!](pics/20230919_210600.jpg)
@@ -963,7 +970,7 @@ whenever i was in more rural areas i often randomly ran into spider-web-like mat
 
 ![9.19 22:12 GMT+9: walking along the road still](pics/20230919_221254.jpg)
 
-Along my way i alternated through periods of being scared i was going to encounter some rabid animal, periods of wondering wth i was doing, periods of "hmm this is quite peaceful and chill and romantic", etc. I ended up encountering two animals face-to-face: one wild animal that i only saw they outline in the dark. they was as scared of me as i was of them, so they ran away and we was chill. Another was someone's pet dog; i walked by the owner who was idk chilling out they house or something , and then i walked by they dog who started losing their marbles and barking intensely while walking following me. the owner told them to chill tf out and eventually they did.
+Along my way i alternated through periods of being scared i was going to encounter some rabid animal, periods of wondering wth i was doing, periods of "hmm this is quite peaceful and chill and romantic", etc. I ended up encountering two nonhuman animals face-to-face: one wild animal that i only saw they outline in the dark. they was as scared of me as i was of them, so they ran away and we was chill. Another was someone's pet dog; i walked by the owner who was idk chilling out they house or something , and then i walked by they dog who started losing their marbles and barking intensely while walking following me. the owner told them to chill tf out and eventually they did.
 
 The most scary part of this walk was the Dogs. not that pet dog where i could see it and know it was a pet dog owned by the owner i just walked by, but the ones i couldnt see in the dark. the ones that i walking in the pitch dark didnt expect anything and suddenly theres this loud barking coming from nothing in particular. is they feral rabid dogs coming to bite my leg?? i always wondered this.
 
@@ -991,7 +998,7 @@ Finally after a bit less than five hours I Arrived at my Accomodation. check in 
 
 ![9.20 00:52 GMT+9: my room. how cute! i didnt take any pics of bathroom.](pics/20230920_005247.jpg)
 
-It was 1am and i had not eaten dinner. i thought about not eating dinner. but then i thought about eating dinner. So i went to a 24-hours [감자탕](potato soup) place that i walked by. there was customers in it. i walked in and idk the vibe was kind of off and the waiter looked at me kinda funny , and i felt unusually awkward. i ordered food. idk why but i think the waiter stared at me for an uncomfortably long period of time when i was ordering like they didnt understand what i was saying. but they got my order and brought out my food. i decided i wanted to drink alcohol (idk why. maybe because it would be funny in concept to drink at 1am in random town i had never been to<sup>[thats actually not funny but i probably thought it would have been funny]</sup>). So i asked them can i get bottle of soju. and they just kind of stared at me. and then said u gotta have id do u have id. and this was literally one of only times i didnt have my passport on me in south korea (i left at my room), but also literally the only time anyone or anything has asked me to verify that i am drinking age in south korea. so i just (nonverbally, probably) said no and they left.
+It was 1am and i had not eaten dinner. i thought about not eating dinner. but then i thought about eating dinner. So i went to a 24-hours [감자탕](potato soup) place that i walked by. there was customers in it. i walked in and idk the vibe was kind of off and the waiter looked at me kinda funny , and i felt unusually-more-awkward-than-usual. i ordered food. idk why but i think the waiter stared at me for an uncomfortably long period of time when i was ordering like they didnt understand what i was saying. but they got my order and brought out my food. i decided i wanted to drink alcohol (idk why. maybe because it would be funny in concept to drink at 1am in random town i had never been to<sup>[thats actually not funny but i probably thought it would have been funny]</sup>). So i asked them can i get bottle of soju. and they just kind of stared at me. and then said u gotta have id do u have id. and this was literally one of only times i didnt have my passport on me in south korea (i left at my room), but also literally the only time anyone or anything has asked me to verify that i am drinking age in south korea. so i just (nonverbally, probably) said no and they left.
 
 I ate my stuff. i saw some ppl come in order food and drinks im pretty sure they werent IDed. i wondered why they decided to ID me . did i really look like i was young? did they think i snuck out the house at 1am or sth? was it bc i acted weird/awkward when coming in and ordering? did they think i was chinese or japanese and hated chinese or japanese ppl? was it bc i ordered the alcohol after food came out instead of alongside the food? i did not know but i ate.
 
@@ -1043,7 +1050,7 @@ I payed and left feeling very fulfilled . and then i went to go do my laundry. i
 
 ![9.20 17:41 GMT+9: here is a paris baguette bag i saw in a nearby public restroom](pics/20230920_174126.jpg)
 
-It was nice and chill and eventually i finished and then left and then went to Motel that i booked i think while waiting for laundry.
+It was nice and chill and eventually i finished and then left and then went to Motel that i booked i think while waiting for laundry. Standard night routine probably not much . wash body , teeth , charge phone idk.
 
 ![9.20 19:21 GMT+9: street](pics/20230920_192106.jpg)
 
@@ -1084,9 +1091,9 @@ i had a little mental breakdown and asked a friend if they had any friends aroun
 when i was walking out the door with my mcdonalds order , a worker stopped me and said can they look my order verify whether something was inside or sth(?), and then ig it was ok they sent me on my way.
 </div>
 
-Then i walked out carrying my bowl of cup noodles (and its packet of powder which it said to add once noodles done cooking) (and my chopsticks) and walked to the [한강](han river) , which was a frustrating experience. it was far , i accidentally walked into some kind of apartments area and had to turn back , i crossed some kind of road which there wasnt a crosswalk u had to walk down stairs through an underground mall and up stairs again?? , and etc.
+Then i walked out carrying my bowl of cup noodles (and its packet of powder which it said to add once noodles done cooking) (and my chopsticks) and walked to the [한강](han river) , which was a frustrating experience. it was far , i accidentally walked into some kind of apartments area and had to turn back , i crossed some kind of road which there wasnt a crosswalk u had to walk down stairs through an underground mall and up stairs again?? , and etc. also i dropped my noodle powder packet and/or chopsticks more than once.
 
-![9.21 15:50 GMT+9: giant ass crosswalk i waited for as my noodles swelled and become cold](pics/20230921_155030.jpg)
+![9.21 15:50 GMT+9: giant-ass crosswalk i waited for as my noodles swelled and become cold](pics/20230921_155030.jpg)
 
 ![9.21 16:06 GMT+9: in my experience a typical walking route to the [한강](han gang)](pics/20230921_160644.jpg)
 
@@ -1117,7 +1124,7 @@ So i looked up one that got good reviews Go there. Here was approx my checkin pr
 3. walk in
 4. there was a kiosk outside of the line-of-sight of the front desk. i use this kiosk select my Options (adult male, i think). this kiosk print me a receipt with a number.
 5. walk into the lobby. person say me: take off you shoes before coming in. i do this.
-6. walk in with my shoes. probably looking like idk what to do. i think the person ask me what my number is. and then told me to put my shoes in the number locker over there. wander over to lockers. they tell me my locker is at very end. they tell me this again in english when i probably look like i spending too much time or didnt understand or sth.
+6. walk in carrying my shoes. probably looking like idk what to do. i think the person ask me what my number is. and then told me to put my shoes in the number locker over there. wander over to lockers. they tell me my locker is at very end. they tell me this again in english when i probably look like i spending too much time or didnt understand or sth.
 7. walk back over to counter . them give me [찜질복](sauna clothes) and tell me the male bathroom is over there.
 8. enter male bathroom
 9. congratulations!
@@ -1138,9 +1145,9 @@ layed in my little cave. cover eye with towel. used phone some probably couldnt 
 
 today i woke up in my little cave and then crawled out my little cave and then took a shower and short bath and then changed into clothes go to leave. i fetched my shoes from my shoe locker. and then remember i forgot to use the [퇴장](exit) kiosk. I was under impression based on the pricing charts that i would have to be paying a bunch of extra money for staying extra time or sth idk. However i need to pay at that the [퇴장](exit) kiosk. However to use the [퇴장](exit) kiosk u need to put ur Key into it. However i had already fetched my shoes and now the locker dont open let the key out. dam thats so awkward.
 
-So at front desk i said: '[결제](payment)........forgot(hand gesture that hopefully looks like "forgot")'. and then they ask me what my number is , get me to write it down. i wrote it down. they do something with they computer , say 'ok u should be able to do it now' or sth . i went over to the locker the key still dont come out. oops!. I went back to the front desk . they say sth like '?? does u want to enter?' and i say No and they was like ?????. and say sth like 'what country u from' and i say 'usa' and they say OK then English?. and i affirm. and they pull up google translate and get me to speak english into it i speak sth like 'i forgot to pay and the key doesnt come out'. and then they look at they computer and my number and stuff and say 'this is ur number right??' and i affirm and they say 'it dont have any other charges..?' and walk over to shoe locker and open it , walk back to computer . and look a bit and just say 'u can go it doesnt say any charges' or so. so , i went (not knowing if i had just misunderstood the pricing chart informations or i got out free because of bug or sth).
+So at front desk i said: '[결제](payment)........forgot(hand gesture that hopefully looks like "forgot")'. and then they ask me what my number is , get me to write it down. i wrote it down. they do something with they computer , say 'ok u should be able to do it now' or sth . i went over to the locker the key still dont come out. oops!. I went back to the front desk . they say sth like '?? does u want to enter?' and i say No and they was like ?????. and say sth like 'what country u from' and i say 'usa' and they say OK then English?. and i affirm. and they pull up google translate and get me to speak english into it i speak sth like 'i forgot to pay and the key doesnt come out'. and then they look at they computer and my number and stuff and say 'this is ur number right??' and i affirm and they say 'it dont have any other charges..?' and walk over to shoe locker and open it , walk back to computer . and look a bit and just say 'u can go it doesnt say any charges' or so. so , i went (not knowing if i had just misunderstood the pricing chart informations or i got out free because of a bug or sth).
 
-I walked idk where was walking but i walked Away from there. i encountered a Train station. how convenient!. I sat in train station a bit wondering what to do. then i thought: i want to eat mcdonalds breakfast. So, i decided to go to [Itaewon](이태원). because i wanted to go there in general , and also it was vaguely near the [한강](HAN RIVER) so maybe i can get mcdonalds and eat it along 한강.
+I walked away . idk where was walking but i walked Away from there. i encountered a Train station. how convenient!. I sat in train station a bit wondering what to do. then i thought: i want to eat mcdonalds breakfast. So, i decided to go to [Itaewon](이태원). because i wanted to go there in general , and also it was vaguely near the [한강](HAN RIVER) so maybe i can get mcdonalds and eat it along 한강.
 
 So i went to there. i hear it is more diverse than other areas of south korea. and i see that it is, at least while walking through train station. I walk to a mcdonalds and order food n stuff.
 
@@ -1209,7 +1216,12 @@ it turns out i was not very hungry , so i saved leftovers for later . and left t
 
 I took train to nearby area to visit my fav store [무인양품](muji) with intention to buy a sweatshirt bc my flight to USA home was tomorrow and i expected the plane to be chilly. on my way to [무인양품](muji) i also passed by a Line Friends and Kakao Friends stores which sell cute character goods , so i took mental note of them . I walked around the [무인양품](muji) look at the neat things , and then buy the sweatshirt i came for , exited , go to browse Kakao Friends. there was cute things n stuff but nothing i really wanted (i wanted to buy one of those THINGS U ATTACH TO BACK OF PHONE AND ITS A GRIP AND U CAN EXTEND AND RETRACT IT, or maybe a wrist Strap).
 
-And then i go browse Line Friends. in that store i saw that they still had a little display set up from a popup store collaboration thing they did with The South-Korean Global Pop Sensation NewJeans which was cool and even had leftover merch. However i convinced myself that i do not need Material Objects that i do not need. I was thinking of buying a little frog/chicken(?) character ADHESIVE GRIP THING and a phone wrist strap. However after hesitating for a long time , i decided Not to bc it was expensive af. I walked back over to the South-Korean Global Pop Sensation NewJeans corner and looked at the things again they were cute and cool , however nothing i actually 'needed'. However i remember they once had a phone wrist strap thing that could be actually useful if i bought it. However they dont have it here. However i know theres another line friends store in [HONGDAE](홍대), so i decided to go there.
+And then i go browse Line Friends. in that store i saw that they still had a little display set up from a popup store collaboration thing they did with The South-Korean Global Pop Sensation NewJeans which was cool and even had leftover merch. However i convinced myself that i do not need Material Objects that i do not need. I was thinking of buying a little frog/chicken(?) character ADHESIVE GRIP THING and a phone wrist strap. However after hesitating for a long time , i decided Not to bc it was expensive af. I walked back over to the South-Korean Global Pop Sensation NewJeans corner and looked at the things again they were cute and cool , however nothing i actually 'needed'. However i remember seeing online that in this collaboration they had a phone wrist strap thing that could be actually useful if i bought it. However they dont have it here. However i know theres another relevant line friends store in [HONGDAE](홍대), so i decided to go there.
+
+<div class=aside>
+### aside: i found out that [홍대](hong dae) is literally just [홍대](hong uni)
+before i came to south korea i had heard of the area of seoul named '[홍대](hongdae)' and the university '[홍익대학교](hongik university)'. however i didnt know they was actually related until i was reading a subway map in south korea and saw '[홍대입구](entrance to hong uni)' station where i 🤔🤔 thats funny is that 'hongdae'? and then figured out i think it is. and so i learned that 홍대 means 홍대.
+</div>
 
 I take the Train there. In the [HONGDAY](홍대) station i walked past a rack of those adhesive phone grips they were cute and also cheaper than line friends. I continue on, go to exit station. i think: maybe i come back to examine them on my way back idk. However, right before i exit i think: hmm idc idgaf. and then turn back , go back to rack , buy a cute little avocado grip that match my phone color perfectly. and then go back exit walk to line friends.
 
@@ -1219,11 +1231,11 @@ Line friends dont have what i was looking for so i exit walk back. but on the wa
 
 Then, i take train to [여의도](YEOUIDO) [한강](han river) park. why? because i saw [여의도](yoido) on the lists of 'good 한강 park' and i heard name before and also [여의도](YO I DO) sounds way cooler than '[반포](BANPO)' in my humble opinion.
 
-I arrive at yo i do han gang park and it finally what i sort of imagine would be a 'han gang park' -- direct access to waterfront , unobstructed View of River and stuff , large flat areas with some greenery. terrific!.
+I arrive at yo i do han gang park and It was Finally what i sort of imagined a 'han gang park' would be -- direct access to waterfront , unobstructed View of River and stuff , large flat areas with some greenery. terrific!.
 
 I went to the Seven-Eleven on the water and bought an Alcohol and then sat at a Picnic table and Ate my food, which was still pleasantly warm (i didnt have to walk 15 mins through a bunch of roads bc there was a train station right into the Park🥰).
 
-![9.22 17:19 GMT+9: shrimp burger that iirced didnt have shrimp but i didnt bother checking bc i didnt have any more mobile data (my plan ran out)](pics/20230922_171918.jpg)
+![9.22 17:19 GMT+9: shrimp burger that iirced didnt have shrimp<sup>(which i am allergic to)</sup> but i didnt bother checking bc i didnt have any more mobile data (my plan ran out)](pics/20230922_171918.jpg)
 
 ![9.22 17:22 GMT+9: large fries](pics/20230922_172209.jpg)
 
@@ -1233,13 +1245,13 @@ I went to the Seven-Eleven on the water and bought an Alcohol and then sat at a 
 
 ![9.22 17:20 GMT+9: [지파이_고소S](some kind of fried flat chicken meat??)](pics/20230922_172043.jpg)
 
-![9.22 17:28 GMT+9: i chose Soju as my Alcohol. This decision was mainly because Beer i feared would Fill Me Up Too Much. drinking straight out the bottle felt a bit too 'unhinged' , esp in public. So i emptied and used a little sauce container to use a glass. idk if this was less or more 'unhinged'.](pics/20230922_172850.jpg)
+![9.22 17:28 GMT+9: i chose Soju as my Alcohol. This decision was mainly because Beer i feared would Fill Me Up Too Much. drinking straight out the bottle felt a bit too 'unhinged' , esp in public. So i emptied and used a little sauce container as a glass. idk if this was less or more 'unhinged'.](pics/20230922_172850.jpg)
 
 It was a nice meal. i finished up , and sat on some steps facing towards river sipping on my Ade. it was nice.
 
 ![9.22 17:52 GMT+9: river](pics/20230922_175218.jpg)
 
-At some point , spontaneously , or perhaps in a moment of weakness , i decided to go back to Line Friends store buy some The South-Korean Global Pop Sensation NewJeans merch. tbh i didnt even know when the store closed bc i didnt have mobile data. however idced ; i thought: "if its closed i consider it the higher powers protect me from my moment of weakness. if it dont then idk lol."
+At some point , spontaneously , or perhaps in a moment of weakness , i decided to go back to Line Friends store buy some The South-Korean Global Pop Sensation NewJeans merch. tbh i didnt even know when the store closed bc i didnt have mobile data. however idced ; i wrote in my notes: "if its closed i consider it the higher powers protect me from my moment of weakness. if it dont then idk lol."
 
 I rode the train from [여의도](YO I DO) to [강남](GANG NAM). there was lots of people in the train system. in fact there was a Line for the train , which is first time i had ever seen one of those in any country. when i got off the train walk to the line friends , i also saw a long queue for i think a Bus. which i also had never seen before.
 
@@ -1259,7 +1271,7 @@ I was basically arrived , but then i thought: dang it is only 8pm. ive never don
 
 idked paris baguette i had never been into a paris baguette except briefly walked through one in new york city. i selected a '[단팥크림빵](sweet bean cream bread)' and then wait in the queue to pay; ahead of me was someone buying just like five sausages and someone buying a banquet's worth of pastries and drinks. i payed it was not expensive iirc. and then sat down at the little eating area.
 
-They had free wifi and charging stuff built into the tables which was very nice. i sat there and applied my adhesive avocado phone grip i bought earlier and plugged stuff into charge and used phone and ate my bread. it was chill.
+They had free wifi and charging stuff built into the tables which was very nice. i sat there and applied my adhesive avocado phone grip i bought earlier and plugged stuff in to charge and used phone and ate my bread. it was chill.
 
 ![9.22 21:04 GMT+9: ingredients of the bread](pics/20230922_210429.jpg)
 
@@ -1275,7 +1287,7 @@ eventually it was 9pm and i decided that i had had enough night life for the day
 8. them walk me into the locker room and show me and explain me stuff.
 9. thats it i didnt have to say any words just hopefully Nonverbally Express Thanks.
 
-bathtime was chill. though there were a lot of guys that had shaved heads and large tattoos which was a bit 🤔 , though i had a shaved head as well so i was not really one to 🤔. Another thing that had me 🤔 was that the Single Sink in the baths area was labelled [양치금지](BRUSHING TEETH FORBIDDEN) and say please brush you teeth in shower or so. I had seem people brush teeth in shower or so but i thought it was them just taking a little shortcut shower and brush teeth at same time or so , i didnt know its actually like A Thing to brush ur teeth in the showers. but ig it was. also there were (public) toothbrushes and toothpaste for u to use if u dont have ur own 🤔. tbh idrked how to brush my teeth in the shower i like kind of brush teeth there and then spat my mouth waste Nearish the drain and close to the floor so it wouldnt splash everywhere. and then like tried to make the water wash it down the drain. idk. idked.
+bathtime was chill. though there were a lot of guys that had shaved heads and large tattoos which was a bit 🤔 , though i had a shaved head as well so i was not really one to 🤔. Another thing that had me 🤔 was that the Single Sink in the baths area was labelled [양치금지](BRUSHING TEETH FORBIDDEN) and say please brush you teeth in shower or so. I had seem people brush teeth in shower or so but i thought it was them just taking a little shortcut shower and brush teeth at same time or so , i didnt know its actually like A Thing to brush ur teeth in the showers. but ig it was. also there were (public) toothbrushes and toothpaste for u to use if u dont have ur own 🤔. tbh idrked how to brush my teeth in the shower i like kind of brushed and then spat my mouth waste Nearish the drain and close to the floor so it wouldnt splash everywhere. and then like tried to make the water wash it down the drain. idk. idked.
 
 eventually im done bathe and brush teeth n stuff , and i followed behind someone to the main area bc i afraid if i look around too much someone might ask if i need help.
 
