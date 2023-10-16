@@ -210,7 +210,7 @@ Some of you may be wondering: hmm, i am so curious: what little toiletries will 
 
 </div>
 
-## korea day 3 -- seongnam, seoul, donghae
+## korea day 3 -- seongnam,seoul,donghae
 
 i woke up and stuff and checked out by leaving key at front desk. (retrospectively i think i should have left in a box that was in the elevator but i was unclear on the wording of the instructions printed on it so just left at the front desk).
 
@@ -717,7 +717,7 @@ eventually i probably went to sleep. end of day 5.
 
 ![map 2](pics/korea-5-pohang.png)
 
-## korea day 6 -- pohang,GYEONGJU,busan
+## korea day 6 -- pohang,[경주](GYEONGJU),busan
 
 Today i woke up in Pohang and left my accommodation and then walked around a Market place. The market place had lots of stuff. i walked around a Harbour. it was cool!.
 

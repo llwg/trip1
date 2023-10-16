@@ -56,10 +56,10 @@ strong { font-weight: bold }
 em { font-style: italic }
 p { margin: 1rem }
 
-h1 { font-size: 3rem}
-h2 { font-size: 2.4rem}
-h3 { font-size: 2.0rem}
-h4 { font-size: 1.5rem}
+h1 { font-size: 2.2rem }
+h2 { font-size: 1.6rem; text-decoration: underline}
+h3 { font-size: 1.5rem}
+h4 { font-size: 1.2rem}
 
 h2 { position: sticky; top: 0; background: white}
 
@@ -69,7 +69,7 @@ figure { margin: 1rem; padding: 0 1rem 0 1rem }
 figcaption { font-style: italic }
 
 .aside { background-color: lightgreen; margin: 1rem; padding: 0.5rem }
-.drop-caps { font-size: 2rem; text-transform: uppercase; float: left}
+.drop-caps { font-size: 1.8rem; text-transform: uppercase; float: left}
 
 body { margin: 0.6rem; font-family: 'Georgia'; text-align: justify }
 
