@@ -36,7 +36,12 @@ const handlers = {
 		// console.error(tree)
 		const { t, c: [a, b, [x, y]]} = tree
 		// console.error({ tree: {t, c: [a, b, [x.replace(/^pics\/(.+)\.jpg$/, 'media/$1.webp'), y]]}, currHead })
-		return { tree: {t, c: [a, b, [x.replace(/^pics\/(.+)\.(jpg|png)$/, 'media/$1.webp').replace(/^pics\/(.+\.webm)/, 'media/$1'), y]]}, currHead }
+		const adjusted_filename = x
+			.replace(/^pics\/(.+)\.(jpg|png|webp)$/, 'media/$1.webp')
+			.replace(/^pics\/(.+\.webm)/, 'media/$1')
+
+		// return {tree, currHead}
+		return { tree: {t, c: [a, b, [adjusted_filename, y]]}, currHead }
 	}
 }
 

@@ -9,6 +9,7 @@ const code2timezone =
 	, 'taiwan': 'Asia/Taipei'
 	, 'korea': 'Asia/Seoul'
 	, 'pre-trip': 'America/New_York'
+	, 'return-trip': 'America/Los_Angeles'
 	}
 
 const timezone = code2timezone[code]
@@ -20,9 +21,15 @@ import { serve } from "https://deno.land/std@0.178.0/http/server.ts";
 serve(async req => {
 	const fs = await req.json()
 
-	const changes = fs.map(f => [`/mnt/d/imges/${f}`, `${code}/pics/${f}`])
+	const changes = fs.map(f => [`/mnt/d/imges/${f}`, `pics/${f}`])
 
+	changes.push(...fs.map(f => [`/mnt/d/imges/${f}`, `media/${f}`]))
+
+	try{
 	await Promise.all(changes.map(xs => Deno.copyFile(...xs)))
+	}catch(e) {
+		console.log('failed oops!!')
+	}
 
 	console.log(changes)
 

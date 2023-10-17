@@ -990,6 +990,8 @@ The most scary part of this walk was the Dogs. not that pet dog where i could se
 
 ![9.20 00:16 GMT+9: empty roads + light](pics/20230920_001617.jpg)
 
+![9.20 00:16 GMT+9: video of empty roads. there was some kind of sick cow noise or so??](pics/20230920_001636.webm)
+
 ![9.20 00:21 GMT+9: i was arrived](pics/20230920_002115.jpg)
 
 ![9.20 00:34 GMT+9: a picture of a convenience store. i emailed this picture to my Korean professor bc i did my 'where do u want to go in south korea' presentation on south-korean convenience stores.](pics/20230920_003444.jpg)
@@ -1069,6 +1071,8 @@ This day i woke up. I wanted to go to a chinese food place so i looked one up , 
 ![9.21 09:35 GMT+9: picture of dove](pics/20230921_093538.jpg)
 
 ![9.21 09:44 GMT+9: picture of dove](pics/20230921_094419.jpg)
+
+![9.21 09:44 GMT+9: video of dove](pics/20230921_094431.webm)
 
 ![9.21 09:56 GMT+9: cars](pics/20230921_095605.jpg)
 
@@ -1189,6 +1193,8 @@ I walked for quite a while. i saw some views, bikers, pigeons, picnic tables, pe
 
 ![9.22 11:36 GMT+9: 80](pics/20230922_113613.jpg)
 
+![9.22 11:15 GMT+9: video of the walk , nice Drone of the Highway](pics/20230922_111557.webm)
+
 eventually i gave up and went to a train station. i looked up 'best 한강 parks'. i decided to go to '[반포](BAN PO)' 한강 park because seemed to be number one. took the train there, walked along a bunch of roads as usual , and arrived at the 'Park'.
 
 ![9.22 12:16 GMT+9: average walk to 한강](pics/20230922_121611.jpg)
@@ -1230,6 +1236,8 @@ Line friends dont have what i was looking for so i exit walk back. but on the wa
 ![9.22 16:20 GMT+9: u order at kiosk and then u pick up food from 'pick up box'. how advanced!](pics/20230922_162016.jpg)
 
 Then, i take train to [여의도](YEOUIDO) [한강](han river) park. why? because i saw [여의도](yoido) on the lists of 'good 한강 park' and i heard name before and also [여의도](YO I DO) sounds way cooler than '[반포](BANPO)' in my humble opinion.
+
+![9.22 16:33 GMT+9: short little video out train window crossing han river](20230922_163309.webm)
 
 I arrive at yo i do han gang park and It was Finally what i sort of imagined a 'han gang park' would be -- direct access to waterfront , unobstructed View of River and stuff , large flat areas with some greenery. terrific!.
 
