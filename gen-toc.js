@@ -41,4 +41,4 @@ const hehe = async code => {
 	return zz.join('\n')
 }
 
-console.log((await Promise.all(['pre-trip', 'japan', 'taiwan', 'korea', 'conclusions', 'return-trip'].map(hehe))).join('\n'))
+console.log((await Promise.all(['pre-trip', 'japan', 'taiwan', 'korea', 'return-trip', 'conclusions'].map(hehe))).join('\n'))

@@ -1237,7 +1237,7 @@ Line friends dont have what i was looking for so i exit walk back. but on the wa
 
 Then, i take train to [여의도](YEOUIDO) [한강](han river) park. why? because i saw [여의도](yoido) on the lists of 'good 한강 park' and i heard name before and also [여의도](YO I DO) sounds way cooler than '[반포](BANPO)' in my humble opinion.
 
-![9.22 16:33 GMT+9: short little video out train window crossing han river](20230922_163309.webm)
+![9.22 16:33 GMT+9: short little video out train window crossing han river](pics/20230922_163309.webm)
 
 I arrive at yo i do han gang park and It was Finally what i sort of imagined a 'han gang park' would be -- direct access to waterfront , unobstructed View of River and stuff , large flat areas with some greenery. terrific!.
 

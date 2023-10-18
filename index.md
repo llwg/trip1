@@ -93,7 +93,6 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 		- [aside: i dropped a bill on the floor when i was paying for my coca-cola](korea.html#aside-i-dropped-a-bill-on-the-floor-when-i-was-paying-for-my-coca-cola)
 		- [aside: i found out that 홍대 is literally just 홍대](korea.html#aside-i-found-out-that-홍대-is-literally-just-홍대)
 	- [korea day 11 -- incheon](korea.html#korea-day-11-incheon) (9 photo)
-- [conclusions](conclusions.html#conclusions)
 - [the return trip](return-trip.html#the-return-trip)
 	- [ICN to SFO](return-trip.html#icn-to-sfo) (5 photo)
 	- [the bay area](return-trip.html#the-bay-area) (11 photo)
@@ -101,3 +100,4 @@ note: some web-pages here are sort of gigantic and may load up to like 0.6gb of 
 	- [dulles, va (IAD)](return-trip.html#dulles-va-iad) (1 photo)
 	- [IAD to LGA](return-trip.html#iad-to-lga) (1 photo)
 	- [new york city](return-trip.html#new-york-city) (2 photo)
+- [conclusions](conclusions.html#conclusions)
