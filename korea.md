@@ -85,7 +85,7 @@ For dinner i took subway to [신촌](SHIN CHON) and ate at a place that a friend
 
 After i eat i went to go to the Motel i booked earlier in the Morning. it was very West of seoul. the Train Over was quite crowded.
 
-![9.13 19:30 GMT+9: this picture was taken walking north from [까치산역](GGACHISAN STATION) iirc](pics/20230913_193041.jpg)
+![9.13 19:30 GMT+9: this picture was taken walking south from [까치산역](GGACHISAN STATION) iirc](pics/20230913_193041.jpg)
 
 ![9.13 19:38 GMT+9: neon lights and rain always look neat together](pics/20230913_193826.jpg)
 

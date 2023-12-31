@@ -43,7 +43,7 @@ on the 25th i prepared for the trip by doing laundry and packing laundry and oth
 - my wallet with credit card n things
 - picture frame with picture of duck and my vaccination card contained
 
-unfortunately i do not have a picture of this original packing, but a picture of a similarish packing can be seen in <a href='../taiwan/index.html#day-7'>taiwan/day 7</a>.
+unfortunately i do not have a picture of this original packing, but a picture of a similarish packing can be seen in <a href='taiwan.html#taiwan-day-7-taipei'>taiwan/day 7</a>.
 
 i packed all these things in a 99-cent reusable grocery bag that i accidentally got when a grocery checkout person asked me if i wanted a paper or plastic bag and i said plastic expecting they were going to give me those thin plastic bags but they gave me a nice thick reusable grocery bag. small items i put in a large plastic freezer bag (idk exact capacity).
 
